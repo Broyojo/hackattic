@@ -1,5 +1,7 @@
 use std::io;
 
+// Solution inspired from: https://www.thespatula.io/rust/rust_base64/
+
 const BASE64_CHARSET: &[u8; 64] =
     b"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 

@@ -1,0 +1,13 @@
+{"Beardsley": {"balance": 293111, "account_number": 1592450}, "extra": {"balance": 3403145}}
+{"Brigham": {"balance": 9255502, "account_number": 1144398}}
+{"Allard": {"balance": 4661903, "account_number": 1382322}}
+{"Beacher": {"balance": 9314490, "account_number": 2026290}}
+{"Brinley": {"balance": 4662940, "account_number": 4398714}, "extra": {"balance": 5100086}}
+{"Allston": {"balance": 9346598, "account_number": 4023650}, "extra": {"balance": -2413188}}
+{"Alvin": {"balance": 5614017, "account_number": 4221928}}
+{"Bud": {"balance": 5045546, "account_number": 2089657}, "extra": {"balance": 2809554}}
+{"Brewster": {"balance": 3320978, "account_number": 2725422}}
+{"Booker": {"balance": 2301831, "account_number": 1761480}}
+{"Barnett": {"balance": 5322315, "account_number": 3603515}}
+{"Bromley": {"balance": 8039036, "account_number": 2785736}}
+{"Borden": {"balance": 6634421, "account_number": 4284144}, "extra": {"balance": 6031218}}

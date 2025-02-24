@@ -16,8 +16,6 @@ def main():
                 decoded.append(int(part))
             elif part.isascii():
                 decoded.append(ord(part))
-            else:
-                print(part)
         print(decoded)
         print(sum(decoded))
 
